@@ -2,8 +2,8 @@
 Simple NFT hosted in IPFS , available right now in testnet.opensea.
 
 Tools used:
-*Alchemy -- to get the node.
-*Filebase -- to uplod the metadata in IPFS.
+*Alchemy -- to get the nodes.
+*Filebase -- to upload the metadata in IPFS.
 
 ![dope](https://user-images.githubusercontent.com/79459872/182406418-6e9d600b-b36f-4da8-8478-c62806ada4e0.jpg)
 
