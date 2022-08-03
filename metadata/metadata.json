@@ -1,0 +1,22 @@
+{
+    "description": "This proves i know how to deploy a ERC721 token", 
+    "external_url": "https://twitter.com/Gaurav28112001", 
+    "image": "https://ipfs.filebase.io/ipfs/QmYgDxnMu5fjNA7GVfAt7gmnWRwWpMaYgiGc6sUo53wW3M", 
+    "name": "ERC721-DOPE",
+    "attributes": [
+        
+            {
+              "trait_type": "Base", 
+              "value": "Starfish"
+            }, 
+            {
+              "trait_type": "Eyes", 
+              "value": "Big"
+            }, 
+            {
+              "trait_type": "Mouth", 
+              "value": "Surprised"
+            } 
+    ]
+
+  }
